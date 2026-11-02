@@ -14,7 +14,7 @@ Dashboard analisis penjualan coffee shop berbasis Streamlit untuk memvisualisasi
 
 ## Struktur proyek
 
-- `app1.py` : varian dashboard lain dengan styling gelap dan eksplorasi data yang lebih kaya
+- `app1.py` : dashboard analisis
 - `coffee-shop-sales-revenue.csv` : dataset transaksi penjualan coffee shop
 - `requirements.txt` : daftar dependency Python yang diperlukan
 - `analisis_penjualan_coffeeshop.ipynb` : notebook eksplorasi data
